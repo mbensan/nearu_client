@@ -1,0 +1,22 @@
+{
+  "name": "lungo_client",
+  "version": "0.0.0",
+  "authors": [
+    "Matias <mbensan@gmail.com>"
+  ],
+  "description": "cliente nearu con lungo",
+  "main": "index",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "quojs": "~3.0.6",
+    "lungo": "~2.2.1"
+  }
+}
